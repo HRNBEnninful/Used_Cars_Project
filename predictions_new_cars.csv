@@ -1,0 +1,3 @@
+Car_Index,Random Forest,Logistic Regression,Neural Network,CatBoost,Stacking Ensemble
+0,Petrol,Petrol,Petrol,Diesel,Petrol
+1,Petrol,Petrol,Petrol,Petrol,Petrol

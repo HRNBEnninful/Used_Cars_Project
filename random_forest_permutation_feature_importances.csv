@@ -1,0 +1,11 @@
+feature,importance,Model
+engineSize,0.318934216884103,Random Forest
+mpg,0.15921860978808594,Random Forest
+tax,0.020873886933112474,Random Forest
+Make_BMW,0.007869124042244801,Random Forest
+price,0.007662041830606791,Random Forest
+year,0.005908745772071544,Random Forest
+model_ Golf,0.005052805963967755,Random Forest
+model_ Focus,0.0038517291364671856,Random Forest
+Make_Ford,0.002885345482156443,Random Forest
+model_ Q5,0.0026092358666390814,Random Forest
