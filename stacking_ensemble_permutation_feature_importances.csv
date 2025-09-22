@@ -1,0 +1,11 @@
+feature,importance,Model
+engineSize,0.31794022226824054,Stacking Ensemble
+mpg,0.17989921999033617,Stacking Ensemble
+tax,0.022599572030095973,Stacking Ensemble
+price,0.009760474908538685,Stacking Ensemble
+Make_Ford,0.007675847311382644,Stacking Ensemble
+year,0.006875129426382287,Stacking Ensemble
+Make_vw,0.004873334713881428,Stacking Ensemble
+transmission_Manual,0.003837923655691311,Stacking Ensemble
+model_ Focus,0.0036032304825015515,Stacking Ensemble
+model_ Q5,0.003244287982328986,Stacking Ensemble

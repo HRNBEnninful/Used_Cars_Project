@@ -1,0 +1,51 @@
+feature,importance,Model
+engineSize,0.318934216884103,Random Forest
+mpg,0.15921860978808594,Random Forest
+tax,0.020873886933112474,Random Forest
+Make_BMW,0.007869124042244801,Random Forest
+price,0.007662041830606791,Random Forest
+year,0.005908745772071544,Random Forest
+model_ Golf,0.005052805963967755,Random Forest
+model_ Focus,0.0038517291364671856,Random Forest
+Make_Ford,0.002885345482156443,Random Forest
+model_ Q5,0.0026092358666390814,Random Forest
+mpg,0.19795678884517148,Logistic Regression
+engineSize,0.1828121764340443,Logistic Regression
+price,0.07887071167253394,Logistic Regression
+Make_vw,0.07802857734520599,Logistic Regression
+transmission_Manual,0.051880996755711985,Logistic Regression
+Make_audi,0.043335404155449675,Logistic Regression
+model_ Golf,0.04176157934700071,Logistic Regression
+model_ Fiesta,0.040353420307862174,Logistic Regression
+transmission_Automatic,0.03614274867122243,Logistic Regression
+model_ Polo,0.03449989645889413,Logistic Regression
+engineSize,0.34106440256781945,Neural Network
+mpg,0.24352868088631188,Neural Network
+price,0.11767791813349901,Neural Network
+Make_Ford,0.10591564851245945,Neural Network
+transmission_Semi-Auto,0.09846068889349072,Neural Network
+transmission_Automatic,0.098225995720301,Neural Network
+transmission_Manual,0.09663836543107615,Neural Network
+Make_vw,0.060219507144336305,Neural Network
+year,0.059308345413129036,Neural Network
+Make_audi,0.0428660178090702,Neural Network
+engineSize,0.37281700835231596,CatBoost
+mpg,0.1902947470145648,CatBoost
+tax,0.0666666666666667,CatBoost
+price,0.022544350106992517,CatBoost
+transmission_Automatic,0.01786429212397327,CatBoost
+Make_toyota,0.010906329812935756,CatBoost
+year,0.008020984330779357,CatBoost
+Make_BMW,0.007731069234486099,CatBoost
+mileage,0.004721474425346916,CatBoost
+Make_vw,0.0036860633671568,CatBoost
+engineSize,0.31794022226824054,Stacking Ensemble
+mpg,0.17989921999033617,Stacking Ensemble
+tax,0.022599572030095973,Stacking Ensemble
+price,0.009760474908538685,Stacking Ensemble
+Make_Ford,0.007675847311382644,Stacking Ensemble
+year,0.006875129426382287,Stacking Ensemble
+Make_vw,0.004873334713881428,Stacking Ensemble
+transmission_Manual,0.003837923655691311,Stacking Ensemble
+model_ Focus,0.0036032304825015515,Stacking Ensemble
+model_ Q5,0.003244287982328986,Stacking Ensemble

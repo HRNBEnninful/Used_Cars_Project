@@ -1,0 +1,11 @@
+feature,importance,Model
+engineSize,0.34106440256781945,Neural Network
+mpg,0.24352868088631188,Neural Network
+price,0.11767791813349901,Neural Network
+Make_Ford,0.10591564851245945,Neural Network
+transmission_Semi-Auto,0.09846068889349072,Neural Network
+transmission_Automatic,0.098225995720301,Neural Network
+transmission_Manual,0.09663836543107615,Neural Network
+Make_vw,0.060219507144336305,Neural Network
+year,0.059308345413129036,Neural Network
+Make_audi,0.0428660178090702,Neural Network

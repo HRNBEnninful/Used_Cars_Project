@@ -1,0 +1,11 @@
+feature,importance,Model
+engineSize,0.37281700835231596,CatBoost
+mpg,0.1902947470145648,CatBoost
+tax,0.0666666666666667,CatBoost
+price,0.022544350106992517,CatBoost
+transmission_Automatic,0.01786429212397327,CatBoost
+Make_toyota,0.010906329812935756,CatBoost
+year,0.008020984330779357,CatBoost
+Make_BMW,0.007731069234486099,CatBoost
+mileage,0.004721474425346916,CatBoost
+Make_vw,0.0036860633671568,CatBoost

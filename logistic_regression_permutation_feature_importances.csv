@@ -1,0 +1,11 @@
+feature,importance,Model
+mpg,0.19795678884517148,Logistic Regression
+engineSize,0.1828121764340443,Logistic Regression
+price,0.07887071167253394,Logistic Regression
+Make_vw,0.07802857734520599,Logistic Regression
+transmission_Manual,0.051880996755711985,Logistic Regression
+Make_audi,0.043335404155449675,Logistic Regression
+model_ Golf,0.04176157934700071,Logistic Regression
+model_ Fiesta,0.040353420307862174,Logistic Regression
+transmission_Automatic,0.03614274867122243,Logistic Regression
+model_ Polo,0.03449989645889413,Logistic Regression
