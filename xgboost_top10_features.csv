@@ -1,0 +1,11 @@
+Feature,Importance
+cat__transmission_Manual,0.28252465
+num__engineSize,0.060769215
+num__year,0.057031095
+cat__Make_toyota,0.036332436
+cat__Make_audi,0.033640973
+cat__model_ Aygo,0.029944068
+cat__model_ Focus,0.022719854
+cat__model_ Yaris,0.020014102
+cat__model_ I10,0.01925359
+cat__Make_vw,0.018783987
